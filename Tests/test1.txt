@@ -1,0 +1,5 @@
+## funcion id iz_paren der_paren iz_llave numerico id igual numero pt_coma der_llave
+
+funcion fun1(){
+  numerico a = 1;
+}

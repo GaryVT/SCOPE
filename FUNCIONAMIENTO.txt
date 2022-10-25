@@ -1,0 +1,40 @@
+parser
+generacion del arbol recursivo
+
+90 89
+usarmos la clase del profesora
+para la gfeneracion del arbol node_parser,,, usamos todos esos atributois
+
+es lo mismo que lo anterior pero usamos esta clase
+
+13
+ para generar el arbol, se utiliza la clase
+
+49 funcion para buscar en el arbol, se le psaan los elementos y el id, se recorre y si es igual
+
+
+
+lexer
+diferenciamos el tipo numericoi con un numero
+
+tambien los comentarios simples y complejos
+
+
+respescto a los test
+
+comentario de 1 lenea
+comentario de varias lineas
+
+
+SCOPE
+primero, recibimos el root 51, que va retornado del parser
+
+retornmamos el rot tre y elemet tre
+53creacion de las variasbles, la raiz del arbol se añade en el parser, symbol_2 osea PROGRAM
+54
+55
+la declaracion normal es el type numerico
+SCOPE 16
+
+
+finintree 41 SCOPE
